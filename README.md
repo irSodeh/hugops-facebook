@@ -11,6 +11,8 @@ hugops facebook 10-04-2021
 ## HugOps From :
 - [Amir Shokri](https://github.com/amirshnll)
 
+## Design From :
+-  [Sodeh Mohammadabadi](https://github.com/irSodeh)
 <br />
 
 **Add your name and your github profile**
